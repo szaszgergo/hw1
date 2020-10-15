@@ -1,0 +1,53 @@
+body {
+    background-image: url('alap.jpg');
+    margin: 30px auto;
+    width: 50%;
+    font-family: 'Times New Roman', serif;
+    text-align: justify;
+    font-size: 8px;
+}
+
+#dolt {
+    font-style: italic;
+}
+
+#felkover {
+    font-weight: bold;
+}
+
+#male {
+    padding: 5px;
+    width: 150px;
+}
+
+#female {
+    padding: 5px;
+    width: 150px;
+}
+
+#felkover1 {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+div {
+    text-align: right;
+}
+
+h1 {
+    text-align: left;
+    font-weight: normal;
+}
+
+#male {
+    float: right;
+}
+
+#female {
+    float: right;
+}
+
+#nemtom {
+    float: right;
+}
